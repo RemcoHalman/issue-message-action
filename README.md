@@ -15,4 +15,4 @@ Example usage (you can change the replies for issue-message and pr-message)
           pr-message: "<h1>It's great having you contribute to this project</h1> Feel free to create a <strong>Pull Request</strong>! And of course welcome to the <strong>project</strong> :nerd_face:"
 ```
 
-<small>https://github.com/EddieJaoudeCommunity/gh-action-community</small>
+<small>Based of: https://github.com/EddieJaoudeCommunity/gh-action-community</small>
